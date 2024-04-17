@@ -1,0 +1,122 @@
+[
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "year_published": 1949,
+    "genre": "Dystopian, Political Fiction"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year_published": 1813,
+    "genre": "Romance, Satire"
+  },
+  {
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "year_published": 1597,
+    "genre": "Romance, Tragedy"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year_published": 1960,
+    "genre": "Southern Gothic, Bildungsroman"
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year_published": 1925,
+    "genre": "Tragedy, Modernist"
+  },
+  {
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "year_published": 1851,
+    "genre": "Adventure, Epic, Novel"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year_published": 1951,
+    "genre": "Realistic Fiction, Bildungsroman"
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "year_published": 1869,
+    "genre": "Historical Fiction, Novel"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year_published": 1937,
+    "genre": "Fantasy, High Fantasy, Children's literature"
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "year_published": 1967,
+    "genre": "Magical Realism"
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "year_published": 1605,
+    "genre": "Novel, Picaresque"
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "year_published": 1954,
+    "genre": "Fantasy, High Fantasy"
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "year_published": 1866,
+    "genre": "Philosophical Fiction, Novel"
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "year_published": 1865,
+    "genre": "Fantasy, Children's literature"
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "year_published": 1818,
+    "genre": "Gothic, Science Fiction"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "year_published": 1890,
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "year_published": 1897,
+    "genre": "Gothic, Horror"
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "year_published": 1880,
+    "genre": "Philosophical Fiction, Novel"
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "year_published": 1847,
+    "genre": "Gothic Fiction, Romance"
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "year_published": 1862,
+    "genre": "Historical Fiction, Novel"
+  }
+]

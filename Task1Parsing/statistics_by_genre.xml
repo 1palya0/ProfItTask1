@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<statistics>
+  <item>
+    <value>Fantasy</value>
+    <count>13</count>
+  </item>
+  <item>
+    <value>Romance</value>
+    <count>12</count>
+  </item>
+  <item>
+    <value>Adventure</value>
+    <count>10</count>
+  </item>
+  <item>
+    <value>Mystery</value>
+    <count>10</count>
+  </item>
+  <item>
+    <value>Thriller</value>
+    <count>9</count>
+  </item>
+  <item>
+    <value>Novel</value>
+    <count>6</count>
+  </item>
+  <item>
+    <value>Philosophical Fiction</value>
+    <count>3</count>
+  </item>
+  <item>
+    <value>Tragedy</value>
+    <count>2</count>
+  </item>
+  <item>
+    <value>Bildungsroman</value>
+    <count>2</count>
+  </item>
+  <item>
+    <value>Historical Fiction</value>
+    <count>2</count>
+  </item>
+  <item>
+    <value>High Fantasy</value>
+    <count>2</count>
+  </item>
+  <item>
+    <value>Children's literature</value>
+    <count>2</count>
+  </item>
+  <item>
+    <value>Gothic</value>
+    <count>2</count>
+  </item>
+  <item>
+    <value>Dystopian</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Political Fiction</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Satire</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Southern Gothic</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Modernist</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Epic</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Realistic Fiction</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Magical Realism</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Picaresque</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Science Fiction</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Horror</value>
+    <count>1</count>
+  </item>
+  <item>
+    <value>Gothic Fiction</value>
+    <count>1</count>
+  </item>
+</statistics>
